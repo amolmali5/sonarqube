@@ -268,7 +268,7 @@ If prompted to start a tutorial, simply click Skip this tutorial to get to the d
 Once logged in, click the `Administration` tab from the top menu, select `Security` from the drop-down list, 
 and then select `Users`:
 
-![screenshot1](eUpM2OE.png)
+![screenshot1](images/eUpM2OE.png)
 
 From here, click on the small cog on the right of the `Administrator` account row, then click on `Change password`. 
 Be sure to change the password to something that’s easy to remember but hard to guess.
@@ -276,7 +276,7 @@ Be sure to change the password to something that’s easy to remember but hard t
 Now create a normal user that you can use to create projects and submit analysis results to your server 
 from the same page. Click on the `Create User` button on the top-right of the page:
 
-![screenshot2](o9BqYtc.png)
+![screenshot2](images/o9BqYtc.png)
 
 Then create a token for a specific user by clicking on the button in the `Tokens` column 
 and giving this token a name. You’ll need this token later when you invoke the code scanner, 
@@ -289,7 +289,7 @@ From the same `Administration` tab, click on `Configuration`, then `General` Set
 and then `Security` on the left pane. Flip the switch that says `Force user authentication` to enable authentication,
 then click on the `Save` button below the switch.
 
-![screenshot3](CJwI7pe.png)
+![screenshot3](images/CJwI7pe.png)
 
 Now that you’re done setting up the server, let’s set up the SonarQube scanner.
 
