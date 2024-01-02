@@ -1,4 +1,4 @@
-# How To Install SonarQube on Ubuntu
+# Installation of SonarQube on Ubuntu
 
 This document will talk about how to install SonarQube on Ubuntu 20.04LTS manually step by step. However, if you just want to use it, you can use: [SonarQube Docker Container](https://www.sonarqube.org/features/deployment/) 
 
